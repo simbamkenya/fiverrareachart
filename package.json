@@ -12,6 +12,7 @@
     "@rollup/plugin-commonjs": "^24.0.0",
     "@rollup/plugin-node-resolve": "^15.0.0",
     "@rollup/plugin-terser": "^0.4.0",
+    "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
     "rollup": "^3.15.0",
     "rollup-plugin-css-only": "^4.3.0",
@@ -25,10 +26,14 @@
     "d3-array": "^3.2.4",
     "d3-axis": "^3.0.0",
     "d3-fetch": "^3.0.1",
+    "d3-format": "^3.1.0",
     "d3-scale": "^4.0.2",
     "d3-selection": "^3.0.0",
+    "date-fns": "^3.6.0",
     "layerchart": "^0.36.2",
     "lodash": "^4.17.21",
-    "sirv-cli": "^2.0.0"
+    "process": "^0.11.10",
+    "sirv-cli": "^2.0.0",
+    "svelte-ux": "^0.62.8"
   }
 }
